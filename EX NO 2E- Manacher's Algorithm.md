@@ -40,8 +40,8 @@ Extract the substring from the original string using the computed start and leng
 ```
 /*
 Program to implement Reverse a String
-Developed by: DAKSHATA G
-Register Number: 212223240021 
+Developed by: INIYASRI S
+Register Number: 212223230081
 */
 import java.util.Scanner;
 
